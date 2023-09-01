@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 
-list<String> nombres = String ["Yordi","Pepito Prerez","Samuel","Oscar","Luis"]
+List<String> nombres =  <String> ["Yordi","Pepito Prerez","Samuel","Oscar","Luis"];
 
 
 class MyHomePage extends StatefulWidget {
